@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body bgcolor="lavender">
 <h2>Sorry!!! Invalid Credentials. Try again</h2>
 </body>
 </html>

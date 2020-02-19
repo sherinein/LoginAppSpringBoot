@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
-<h2>Login Successful!!! Welcome ${name} </h2>
+<body bgcolor="lavender">
+<h2>Login Successful!!! Welcome ${login.userName} </h2>
 </body>
 </html>
